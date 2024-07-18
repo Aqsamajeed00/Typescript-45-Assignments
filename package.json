@@ -1,7 +1,7 @@
 {
-  "name": "hello-world",
+  "name": "typescript_45_assignments",
   "version": "1.0.0",
-  "description": "",
+  "description": "These are 45 assignments of typescript which includes all specific topics of typescript.",
   "main": "main.js",
   "type": "module",
   "scripts": {
